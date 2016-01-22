@@ -9,6 +9,29 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class ExampleController {
 	
+
+/*
+Conflict를 실험하기 위한 강제 주석뙇
+*/
+/*
+	강제 주석.2 먼저 commit 머지 한ㄴ다
+
+	Conflicit1
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	/**
 	 *  Logger 생성
 	 *  이 작업이 귀찮아서 다 sysout 쓰는거지.
