@@ -2,9 +2,16 @@
 public class example2{
 
 /*
-	Conflict Test 1 ì¡°ì¥ì˜ ì…ì¥.
+<<<<<<< HEAD
+	Conflict Test 2 Á¶¿ø
+	³»°¡ ¼öÁ¤ÇÑ ºÎºĞ
 
+=======
 
+	Conflict Test 1 ì¡°ì¥???…ì¥.
+¸ÓÁöÇÑ ºê·£Ä¡¿¡¼­ ¼öÁ¤ÇÑ ³»¿ëÀÔ´Ï´Ù.
+>>>>>>> develop
+	ÀÌ ºÎºĞÀ» Á÷Á¢ ÆíÁıÀ» ÇØ¼­ .¹İ¿µÇØ¾ßÇÕ´Ï´Ù.
 */
 
 	public static void main(String[] args){
